@@ -1,0 +1,70 @@
+/* Generales */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+hr {
+    background-color: turquoise;
+}
+
+
+/* Nav */
+
+nav {
+    position: absolute !important;
+    z-index: 2;
+    top: 0;
+    left: 10vw;
+    right: 10vw;
+    margin: auto;
+}
+
+.nav__img--size {
+    width: 30px;
+}
+
+
+/* Sections */
+
+section {
+    background-color: black;
+    text-align: center;
+}
+
+.section--color {
+    color: white;
+}
+
+.articulo1__contIconos--bg {
+    padding: 5px;
+    background-color: #17A3B8;
+}
+
+.section3__contacto--bg {
+    background-color: white;
+}
+
+
+/* card */
+
+.articulo2__card--size {
+    width: 100%;
+}
+
+
+/* Footer */
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: x-large;
+}
