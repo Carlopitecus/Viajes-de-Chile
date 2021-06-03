@@ -7,12 +7,23 @@
 
 body {
     background-color: black;
+    /* font-family: 'Raleway', sans-serif; */
 }
 
 hr {
     background-color: turquoise;
 }
 
+h2 {
+    font-weight: 500;
+}
+h5 {
+    /* font-weight: lighter; */
+}
+
+p {
+    font-size: smaller !important;
+}
 
 /* Nav */
 
