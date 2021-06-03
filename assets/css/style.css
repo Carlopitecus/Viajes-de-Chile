@@ -21,9 +21,10 @@ h5 {
     /* font-weight: lighter; */
 }
 
-p {
-    font-size: smaller !important;
+.section2__cardtext--size{
+    font-size: smaller;
 }
+
 
 /* Nav */
 
