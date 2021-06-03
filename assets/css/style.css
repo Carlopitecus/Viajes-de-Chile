@@ -7,7 +7,7 @@
 
 body {
     background-color: black;
-    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Raleway', sans-serif;
 }
 
 hr {
@@ -16,9 +16,6 @@ hr {
 
 h2 {
     font-weight: 500;
-}
-h5 {
-    /* font-weight: lighter; */
 }
 
 .section2__cardtext--size{
