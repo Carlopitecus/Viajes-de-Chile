@@ -2,10 +2,10 @@
 ## Este en un proyecto dentro del marco del curso Full-Stack JavaSripct Treinee.
 
 ### Repositorio
-- [https://github.com/Carlopitecus/Viajes-de-Chile] (https://github.com/Carlopitecus/Viajes-de-Chile)
+- https://github.com/Carlopitecus/Viajes-de-Chile
 
 ### Git-pages
-- [https://carlopitecus.github.io/Viajes-de-Chile/#] (https://carlopitecus.github.io/Viajes-de-Chile/#)
+-  https://carlopitecus.github.io/Viajes-de-Chile/#
 
 
 - Es la primera prueba que comprende las unidades de HTML, CSS, Bootstrap y gitHub.
